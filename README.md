@@ -34,7 +34,7 @@ https://www.invisionapp.com/inside-design/design-resources/card-ui-kit-deck/
 
 
 ### Enviar solución de reto
-Debes hacer un "Fork" de este proyecto, darle permisos a tu compañero de trabajo, revolver los problemas y crear un Pull Request hacia este repositorio.
+Debes hacer un "Fork" de este proyecto, darle permisos a tu compañero de trabajo, resolver los problemas y crear un Pull Request hacia este repositorio.
 
 ### Contribuir
 Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en este repositorio: [challenge-html-01](https://github.com/platzimaster/challenge-html-01/)
