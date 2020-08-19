@@ -1,0 +1,22 @@
+@import './vars';
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  border-bottom: 1px solid $gray-three;
+}
+.categories {
+  display: flex;
+  justify-content: space-between;
+  font: {
+    family: $font-two;
+  }
+  color: $gray-three;
+  @media screen and (max-width: $break-medium) {
+    display: none;
+  }
+}
+
+navbar {
+  grid-column: 3 / 4;
+}
