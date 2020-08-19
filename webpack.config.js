@@ -1,6 +1,7 @@
 const path = require('path');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: './src/index.js',
@@ -29,13 +30,13 @@ module.exports = {
         ],
       },
       {
-        test: /\.css|.styl$/,
+        test: /\.css|.scss$/,
         use: [
-          {
-            loader: MiniCssExtractPlugin.loader,
-          },
+          MiniCssExtractPlugin.loader,
+          // Translates CSS into CommonJS
           'css-loader',
-          'stylus-loader',
+          // Compiles Sass to CSS
+          'sass-loader',
         ],
       },
     ],
@@ -48,5 +49,11 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: 'assets/[name].css',
     }),
+    new CopyWebpackPlugin([
+      {
+        from: './public/assets',
+        to: './assets',
+      },
+    ]),
   ],
 };
