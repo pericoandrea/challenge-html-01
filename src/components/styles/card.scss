@@ -1,0 +1,30 @@
+@import './vars';
+.card {
+  font-family: $font-one;
+  width: 350px;;
+  &__image {
+    position: relative;
+    img {
+      width: 100%;
+    }
+  }
+  &__label {
+    position: absolute;
+    bottom: 20px;
+    left: -3px;
+    background-color: $red;
+    color: $white;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    font: {
+      family: $font-two;
+      size: 12px;
+    }
+  }
+  &__description {
+    margin: 0;
+    font-size: 12px;
+    color: #7d7e83;
+    line-height: 18px;
+  }
+}

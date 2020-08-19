@@ -1,6 +1,10 @@
 import React from 'react';
-import '../styles/components/App.styl';
+import Card from './Card';
 
-const App = () => <h1>Hello React!</h1>;
+const App = () => (
+  <div>
+    <Card />
+  </div>
+);
 
 export default App;
