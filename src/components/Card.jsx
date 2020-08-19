@@ -2,9 +2,9 @@ import React from 'react';
 import './styles/card.scss';
 
 const Card = props => {
-  const { image, label, title, description } = props;
+  const { image, label, title, description, className } = props;
   return (
-    <div className="card">
+    <div className={`card ${className}`}>
       <div className="card__image">
         <img src={image} alt="Card" />
         <div className="card__label">{label}</div>

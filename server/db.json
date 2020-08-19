@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/aidan-hancock-455440.png",
+    "label": "Technology",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 1
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/annie-spratt-213059.png",
+    "label": "Entertainment",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 1
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/crew-22235.png",
+    "label": "Finance",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 2
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/dose-media-344938.png",
+    "label": "Technology",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 2
+  },
+  {
+    "id": 5,
+    "image": "assets/imgs/jeff-sheldon-264920.png",
+    "label": "Entertainment",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 2
+  },
+  {
+    "id": 6,
+    "image": "assets/imgs/aidan-hancock-455440.png",
+    "label": "Finance",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 1
+  },
+  {
+    "id": 7,
+    "image": "assets/imgs/dose-media-344938.png",
+    "label": "Technology",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 2
+  },
+  {
+    "id": 8,
+    "image": "assets/imgs/annie-spratt-213059.png",
+    "label": "Entertainment",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 1
+  },
+  {
+    "id": 9,
+    "image": "assets/imgs/crew-22235.png",
+    "label": "Finance",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 2
+  },
+  {
+    "id": 10,
+    "image": "assets/imgs/aidan-hancock-455440.png",
+    "label": "Technology",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae dolor ipsum facilis officiis harum ipsam quibusdam assumenda perferendis alias, iure vero, deserunt, ea dignissimos placeat mollitia. Molestiae incidunt eos dolore?",
+    "span": 1
+  }
+]

@@ -1,6 +1,7 @@
 @import './vars';
 
 .collage {
+  background-color: $gray-two;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 30px;
@@ -10,4 +11,10 @@
   @media screen and (max-width: $break-small) {
     grid-template-columns: 1fr;
   }
+}
+.span-1 {
+  grid-row-end: span 1;
+}
+.span-2 {
+  grid-row-end: span 2;
 }
